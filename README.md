@@ -1,7 +1,2 @@
 # Clinical-data-on-pelvic-fractures
-Data collection process:
-Descriptions of the experimental setup
-Device(s)
-Image acquisition parameters
-Subjects/objects involved, 
-Instructions to annotators.
+This open-source pelvis atlas is constructed to provide pelvis CT segmentations, statistical shape models, and surgical screw trajectories. The atlas is freely available for academic or educational use. For research only.
